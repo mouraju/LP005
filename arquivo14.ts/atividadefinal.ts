@@ -1,0 +1,1 @@
+let cadastros: {nome: string; idade:number; ativo: boolean; email:string; logradouro:string; numero:number; cidade:string; estado:string;  }
